@@ -1,9 +1,3 @@
-# uk-fruit-veg-sas-analysis
-SAS program analysing UK fruit and vegetable consumption as part of the MANG1041 coursework. Includes data import, manipulation, trend analysis over 40 years, and a TABULATE summary using SAS Base.
-Here is a refined, concise, polished **README.md** that includes your structure and outline while staying consistent with the project files you uploaded.
-
----
-
 # **UK Fruit & Vegetable Consumption Analysis (1975–2015)**
 
 **Tools:** SAS (DATA Step, PROC SORT, PROC PRINT, PROC TABULATE)
@@ -108,12 +102,3 @@ Examples from the ranked output:
 
 This project strengthened my SAS programming skills and improved my ability to analyse government datasets, interpret long-term consumption patterns, and communicate insights concisely.
 The coursework achieved a **90/100** grade, with positive feedback on correctness and structure.
-
----
-
-If you'd like, I can also:
-✔️ Format this README more visually (badges, sections, tables)
-✔️ Create a clean `.sas` file from your DOCX/PDF
-✔️ Write a launch page for a portfolio or CV
-
-Just tell me!
